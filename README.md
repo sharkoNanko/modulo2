@@ -27,6 +27,7 @@ Exercicios:
 Aula 3 - (cont.) - 8 Mar - Classe 4\
 Exercicios:
  - Configuracao dos IDEs novos
+
 =========================================================================\
 Aula 4 - JOGO DO GALO - 15 Mar - Classe 5\
 Exercicios:
