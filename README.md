@@ -42,13 +42,17 @@ Exercicios:
  - leitura de todo o conteúdo
 
 =========================================================================\
-Aula 7 - FICHEIROS - 29 Mar - Classe 7\
+Interrupcao - 29 Mar\
+
+=========================================================================\
+Aula 7 - FICHEIROS - 5 Abr - Classe 7\
 Exercicios:
  - iteração
  - lista idades
  - menu cadastro
  - adição função pesquisa
 
+MODIFICAR
 =========================================================================\
 Aula 8 - AGENDAS - 5 Abr - Classe 8\
 Exercicios:
