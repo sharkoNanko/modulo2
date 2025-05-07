@@ -53,27 +53,36 @@ Exercicios:
  - leitura de todo o conteúdo
 
 =========================================================================\
-Aula 7 - FICHEIROS - 12 Abr - Classe 9\
+Aula 6 - (cont.) - 26 Abr - Classe 9\
+Exercicios:
+ - revisão da aula 6
+
+=========================================================================\
+Aula 7 - FICHEIROS - 3 Mai - Classe 10\
 Exercicios:
  - iteração
  - lista idades
  - menu cadastro
  - adição função pesquisa
+ - resolução da tarefa da aula 6
 
 =========================================================================\
-Aula 8 - AGENDAS - 19 Abr - Classe 10\
+Aula 8 - AGENDAS - 10 Mai - Classe 11\
 Exercicios:
  - input senha
  - message box
  - layout agenda
+ - resolução da tarefa da aula 7
 
 =========================================================================\
-Aula 9 - IMC - 26 Abr - Classe 11\
+ALTERAR
+=========================================================================\
+Aula 9 - IMC - X - Classe 12\
 Exercicios:
  - calculadora IMC
 
 =========================================================================\
-Aula 10 - API - 3 Mai - Classe 12 - H\
+Aula 10 - API - X - Classe 12 - H\
 Exercicios:
  - awesome API
  - ficheiros JSON
