@@ -75,6 +75,12 @@ Exercicios:
  - resolução da tarefa da aula 7
 
 =========================================================================\
+Aula 8 - (cont.) - 17 Mai - Classe 12\
+Exercicios:
+ - junção do algoritmo construído nas aulas 6 e 7 ao aplicativo criado na aula passada
+ - resolução da tarefa da aula 7
+
+=========================================================================\
 ALTERAR
 =========================================================================\
 Aula 9 - IMC - X - Classe 12\
